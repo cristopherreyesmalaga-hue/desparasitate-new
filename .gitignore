@@ -1,1 +1,3 @@
 .playwright-cli/
+.taste-skill/
+node_modules/
